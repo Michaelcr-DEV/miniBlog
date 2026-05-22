@@ -1,0 +1,46 @@
+*{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+
+}
+
+h1{
+    color: cadetblue;
+}
+
+header{
+    background-color: black;
+    color: aliceblue;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.tarjeta1{
+    margin:auto;
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 450px;
+    height: 600px;
+    padding: auto;
+    background-color: cornflowerblue;
+}
+
+.tarjeta2{
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 450px;
+    height: 600px;
+    padding: auto;
+    background-color: cornflowerblue;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+}
